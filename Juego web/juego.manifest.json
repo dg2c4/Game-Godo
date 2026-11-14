@@ -1,0 +1,1 @@
+{"background_color":"#000000","display":"standalone","icons":[{"sizes":"144x144","src":"juego.144x144.png","type":"image/png"},{"sizes":"180x180","src":"juego.180x180.png","type":"image/png"},{"sizes":"512x512","src":"juego.512x512.png","type":"image/png"}],"name":"Chunked LOD Planet","orientation":"any","start_url":"./juego.html"}
